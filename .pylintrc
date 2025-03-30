@@ -1,0 +1,8 @@
+[MASTER]
+# Set the Python path if needed, or leave it blank to use system defaults
+
+[MESSAGES CONTROL]
+
+
+[FORMAT]
+max-line-length=120
